@@ -28,6 +28,7 @@
 
 *RESTful APIs*
 > * The following RESTful APIs were implemented for managing clients, insurance policies, and claims:
+
 > Clients:
  - GET `http://localhost:8080/api/clients`: Fetch all clients.
  - GET `http://localhost:8080/api/clients/{id}`: Fetch a specific client by ID.
