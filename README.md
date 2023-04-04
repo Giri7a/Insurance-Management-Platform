@@ -52,4 +52,4 @@
   
   
   *Conclusion:*
-> *This insurance management platform provides users with the ability to manage their insurance-related tasks easily. With the use of Spring Boot and Java, project is easily scalable and maintainable.	
+> * This insurance management platform provides users with the ability to manage their insurance-related tasks easily. With the use of Spring Boot and Java, project is easily scalable and maintainable.	
