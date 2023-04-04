@@ -28,21 +28,21 @@
 
 *RESTful APIs*
 > * The following RESTful APIs were implemented for managing clients, insurance policies, and claims:
-> *Clients:*
+> Clients:
  - GET `http://localhost:8080/api/clients`: Fetch all clients.
  - GET `http://localhost:8080/api/clients/{id}`: Fetch a specific client by ID.
  - POST `http://localhost:8080/api/clients`: Create a new client.
  - PUT `http://localhost:8080/api/clients/{id}`: Update a client's information.
  - DELETE http://localhost:8080/api/clients/{id}`: Delete a client.
 		
-> *Insurance Policies:*
+> Insurance Policies:
   - GET `http://localhost:8080/api/policies`: Fetch all insurance policies.
   - GET `http://localhost:8080/api/policies/{id}`: Fetch a specific insurance policy by ID.
   - POST `http://localhost:8080/api/policies`: Create a new insurance policy.
   - PUT `http://localhost:8080/api/policies/{id}`: Update an insurance policy.
   - DELETE `http://localhost:8080/api/policies/{id}`: Delete an insurance policy.
 		
-> *Claims:*
+> Claims:
   - GET `http://localhost:8080/api/claims`: Fetch all claims.
   - GET `http://localhost:8080/api/claims/{id}`: Fetch a specific claim by ID.
   - POST `http://localhost:8080/api/claims`: Create a new claim.
