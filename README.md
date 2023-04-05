@@ -34,7 +34,7 @@
  - GET `http://localhost:8080/api/clients/{id}`: Fetch a specific client by ID.
  - POST `http://localhost:8080/api/clients`: Create a new client.
  - PUT `http://localhost:8080/api/clients/{id}`: Update a client's information.
- - DELETE http://localhost:8080/api/clients/{id}`: Delete a client.
+ - DELETE `http://localhost:8080/api/clients/{id}`: Delete a client.
 		
 > Insurance Policies:
   - GET `http://localhost:8080/api/policies`: Fetch all insurance policies.
